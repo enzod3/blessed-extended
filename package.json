@@ -1,8 +1,8 @@
 {
-  "name": "blessed",
+  "name": "@enzod3/blessed-extended",
   "description": "A high-level terminal interface library for node.js.",
   "author": "Enzo DeFranco",
-  "version": "0.1.81",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "./lib/blessed.js",
   "bin": "./bin/tput.js",
@@ -35,6 +35,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@enzod3"
+    "registry": "https://npm.pkg.github.com"
   }
 }
