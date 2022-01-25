@@ -1,6 +1,6 @@
 # blessed-extended
 
-**THIS IS THE STANDARD ![blessed](https://github.com/chjj/blessed) LIBRARY WITH THE FOLLOWING WIDGETS ADDED**
+**THIS IS THE STANDARD [blessed](https://github.com/chjj/blessed) LIBRARY WITH THE FOLLOWING WIDGETS ADDED**
 
 A curses-like library with a high level terminal interface API for node.js.
 
