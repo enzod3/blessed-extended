@@ -35,7 +35,7 @@ The blessed API itself has gone on to inspire [termui][termui] for Go.
 ## Install
 
 ``` bash
-$ npm install blessed
+$ npm install @enzod3/blessed-extended
 ```
 
 ## Example
